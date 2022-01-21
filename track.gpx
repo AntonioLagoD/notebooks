@@ -12,38 +12,6 @@
   <desc>&lt;p>Hora Inicio: 9:12 4 abr. 2021&lt;br/>Hora Fin: 11:58 4 abr. 2021&lt;br/>Distancia recorrida: 32,3 km (02:46)&lt;br/>Tiempo en movimiento: 02:15&lt;br/>Velocidad media: 11,63 km/h&lt;br/>Vel. en Mov.: 14,31 km/h&lt;br/>Velocidad Máxima: 46,1 km/h&lt;br/>Altura Mínima: 6 m&lt;br/>Altura Máxima: 408 m&lt;br/>Velocidad Ascenso: 671 m/h&lt;br/>Velocidad Descenso: 818,7 m/h&lt;br/>Ganancia Altitud: 829 m&lt;br/>Pérdida Altitud: 827 m&lt;br/>Tiempo Ascenso: 01:14&lt;br/>Tiempo Descenso: 01:00&lt;br/>&lt;/p>&lt;hr align="center" width="480" style="height: 2px; width: 517px"/></desc>
   <type>Bicicleta Montaña</type>
   <extensions>
-   <ql:key>71efdfbe7cafb887fcea6b5df0bde07b</ql:key>
-   <ql:flags>4</ql:flags>
-   <ql:history>
-    <ql:event>
-     <ql:icon>://icons/48x48/Start.png</ql:icon>
-     <ql:time>2022-01-21T19:09:31.932Z</ql:time>
-     <ql:comment>Versión inicial</ql:comment>
-    </ql:event>
-    <ql:event>
-     <ql:icon>://icons/48x48/EditText.png</ql:icon>
-     <ql:time>2022-01-21T19:10:10.172Z</ql:time>
-     <ql:comment>Se cambió el nombre</ql:comment>
-    </ql:event>
-    <ql:event>
-     <ql:icon>://icons/48x48/EditText.png</ql:icon>
-     <ql:time>2022-01-21T19:11:40.533Z</ql:time>
-     <ql:comment>Se cambió el nombre</ql:comment>
-    </ql:event>
-    <ql:event>
-     <ql:icon>://icons/48x48/TrkCut.png</ql:icon>
-     <ql:time>2022-01-21T19:12:30.162Z</ql:time>
-     <ql:comment>Puntos eliminados definitivamente 0..39</ql:comment>
-    </ql:event>
-    <ql:event>
-     <ql:icon>://icons/48x48/TrkCut.png</ql:icon>
-     <ql:time>2022-01-21T19:12:40.492Z</ql:time>
-     <ql:comment>Puntos eliminados definitivamente 2464..2519</ql:comment>
-    </ql:event>
-   </ql:history>
-   <gpxx:TrackExtension>
-    <gpxx:DisplayColor>Blue</gpxx:DisplayColor>
-   </gpxx:TrackExtension>
   </extensions>
   <trkseg>
    <trkpt lon="-8.73382670" lat="42.22000830">
