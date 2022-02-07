@@ -1,5 +1,6 @@
-﻿"Trigo";"Centeo";"Millo gran";"Feixón seco";"Pataca";"Millo forraxeiro";"Pradería polifita";"Feixón verde";"Col-repolo";"Tomate"
+"Trigo";"Centeo";"Millo gran";"Feixón seco";"Pataca";"Millo forraxeiro";"Pradería polifita";"Feixón verde";"Col-repolo";"Tomate"
 "A Coruña";5171;235;39521;1630;66779;1204475;1849405;15616;14591;23638
 "Lugo";7603;1600;12427;1085;47050;469026;1544816;9921;10973;13191
+"Error";-1;ABC;0;0;0;0;xyz;980;-1;0A5
 "Ourense";21370;16668;12627;235;204393;21077;6407;10042;23166;20007
 "Pontevedra";365;9;25185;381;53761;152474;272362;11422;9665;30652
